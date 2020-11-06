@@ -4,7 +4,7 @@
 
 > Endpoint to deliver purgatory lists.
 
-[![Vercel deployment](https://flat.badgen.net/badge/vercel/auto-deployment/21c4dd?icon=now)](https://vercel.com/oceanprotocol/market)
+[![Vercel deployment](https://flat.badgen.net/badge/vercel/auto-deployment/21c4dd?icon=now)](https://vercel.com/oceanprotocol/market-purgatory)
 [![js oceanprotocol](https://img.shields.io/badge/js-oceanprotocol-7b1173.svg)](https://github.com/oceanprotocol/eslint-config-oceanprotocol)
 
 ```ts
